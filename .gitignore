@@ -1,0 +1,21 @@
+﻿# Personal learning data
+notes/
+viz/
+*.results.json
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+auth.json
+opencode.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
